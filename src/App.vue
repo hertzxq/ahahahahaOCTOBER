@@ -1,15 +1,10 @@
+<script setup>
+import Game from './components/Game.vue';
+</script>
+
 <template>
   <div>
-    <Header />
     <Game />
   </div>
 </template>
 
-<script>
-import Game from './components/Game.vue';
-export default {
-  components: {
-    Game
-  }
-}
-</script>
