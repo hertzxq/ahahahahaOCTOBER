@@ -1,6 +1,6 @@
 {
     "rooms": 9,
-    "monsterSleepTime": 60000,
+    "monsterSleepTime": 3000,
     "playerLives": 5
   }
   

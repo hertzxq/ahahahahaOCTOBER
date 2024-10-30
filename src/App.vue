@@ -1,10 +1,8 @@
 <script setup>
-import Game from './components/Game.vue';
+import { RouterView } from 'vue-router'
 </script>
 
 <template>
-  <div>
-    <Game />
-  </div>
+  <RouterView />
 </template>
 
