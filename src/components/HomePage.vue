@@ -2,7 +2,7 @@
 </script>
 
 <template>
-    <RouterLink to="/game" class="bg-color cursor-pointer min-h-screen bg-gray-100 items-center flex justify-center">
+    <RouterLink to="/history" class="bg-color cursor-pointer min-h-screen bg-gray-100 items-center flex justify-center">
         <h1 class="text-5xl font-bold text-white mb-8">Добро пожаловать в <span class="text-neutral-600 animate-gradient-text">MaksonchikQuest!</span></h1>
     </RouterLink>  
 </template>
